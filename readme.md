@@ -1,4 +1,4 @@
-Attention.
+#Attention.
 
 This script, written in Python, demostrates Denial of service(DoS) attack.
 This script does not intend to target any particular webiste.
