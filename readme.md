@@ -1,7 +1,7 @@
 #Attention.
 
 This script, written in Python, demostrates Denial of service(DoS) attack.
-This script does not intend to target any particular webiste.
+This script does not intend to target any particular webiste and is used for educational purposes only.
 
 The scripts accepts several arguments, but only one can be inserted.
 Run the script in the Linux Kernel like:
